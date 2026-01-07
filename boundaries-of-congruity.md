@@ -35,7 +35,18 @@ Predictive use requires external models not contained within this framework.
 
 ---
 
-## 3. Non-Therapeutic and Non-Clinical Boundary
+## 3. Temporal Admissibility Boundary (Arrow of Time)
+
+This section formalizes the arrow of time as a congruity-based admissibility constraint.
+
+Forward temporal evolution is admissible because energy, information, and structural costs
+accumulate proportionally.
+
+Future travel remains admissible under Congruity.
+Past-directed trajectories violate proportionality and are therefore inadmissible,
+independently of causality or local physical allowances.
+
+## 4. Non-Therapeutic and Non-Clinical Boundary
 
 The Law of Congruity is not:
 
@@ -49,7 +60,7 @@ validation and domain-specific methodologies outside this law.
 
 ---
 
-## 4. Domain-Indeterminate Boundary
+## 5. Domain-Indeterminate Boundary
 
 The Law of Congruity applies only to systems where all of the following can be
 meaningfully defined:
@@ -63,7 +74,7 @@ Systems lacking one or more of these dimensions fall outside its scope.
 
 ---
 
-## 5. Chaos and Non-Stationarity Boundary
+## 6. Chaos and Non-Stationarity Boundary
 
 The Law of Congruity is not defined for systems that are:
 
@@ -75,7 +86,7 @@ In such cases, proportionality cannot be evaluated.
 
 ---
 
-## 6. Normative and Moral Boundary
+## 7. Normative and Moral Boundary
 
 The Law of Congruity does not prescribe:
 
@@ -88,7 +99,7 @@ It is structurally descriptive, not normatively prescriptive.
 
 ---
 
-## 7. Symbolic-Only Systems Boundary
+## 8. Symbolic-Only Systems Boundary
 
 Purely symbolic or abstract systems without real cost, energy, or consequence
 do not satisfy the conditions for congruity evaluation.
