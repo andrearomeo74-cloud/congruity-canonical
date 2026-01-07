@@ -9,6 +9,19 @@ The Law of Congruity is treated here as a **foundational admissibility principle
 
 This repository defines the canonical laws of Congruity. The First Law is stated in `first-law-of-congruity.md`.
 ---
+## Admissibility Condition
+
+Congruity is not proposed as a physical law, a causal mechanism, or a predictive theory.
+
+It is a **condition of admissibility**:  
+a minimal proportional constraint that determines whether a system, model, or explanation is *coherent enough to exist or persist*.
+
+Only systems whose expressed value (V) remains proportionate to their energetic (E), informational (I), and structural (S) costs are admissible.
+
+All domain-specific applications — physical, biological, cognitive, or social — are secondary instantiations of this constraint.
+
+For a minimal formal treatment of admissibility, see:  
+https://github.com/andrearomeo74-cloud/congruity-admissibility
 
 ## Scope and Intent
 
