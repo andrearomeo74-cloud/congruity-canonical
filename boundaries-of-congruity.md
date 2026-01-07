@@ -69,7 +69,29 @@ The inadmissibility arises purely from loss of proportional cost ordering.
 Conceptual boundary only.
 No claim is made regarding physical realizability.
 
-## 5. Non-Therapeutic and Non-Clinical Boundary
+## 5. Wormhole and Metric Shortcut Boundary
+
+The Law of Congruity does not forbid non-local spatial connections
+such as wormholes or metric shortcuts per se.
+
+However, such structures are admissible only if the apparent reduction
+in spatial or temporal distance is compensated by corresponding
+structural (S), energetic (E), or informational (I) cost at a deeper level.
+
+Apparent efficiency gains that reduce operational scale
+without incurring real structural cost violate proportionality.
+
+Hidden or deferred costs are not exempt.
+Structural cost must be globally accounted across the system.
+
+Therefore, any wormhole-like shortcut that enables sustained functional value (V)
+without proportional accumulation of total cost (E + I + S)
+is inadmissible under Congruity.
+
+Conceptual boundary only.
+No claim is made regarding physical realizability.
+
+## 6. Non-Therapeutic and Non-Clinical Boundary
 
 The Law of Congruity is not:
 
@@ -83,7 +105,7 @@ validation and domain-specific methodologies outside this law.
 
 ---
 
-## 6. Domain-Indeterminate Boundary
+## 7. Domain-Indeterminate Boundary
 
 The Law of Congruity applies only to systems where all of the following can be
 meaningfully defined:
@@ -97,7 +119,7 @@ Systems lacking one or more of these dimensions fall outside its scope.
 
 ---
 
-## 7. Chaos and Non-Stationarity Boundary
+## 8. Chaos and Non-Stationarity Boundary
 
 The Law of Congruity is not defined for systems that are:
 
@@ -109,7 +131,7 @@ In such cases, proportionality cannot be evaluated.
 
 ---
 
-## 8. Normative and Moral Boundary
+## 9. Normative and Moral Boundary
 
 The Law of Congruity does not prescribe:
 
@@ -122,7 +144,7 @@ It is structurally descriptive, not normatively prescriptive.
 
 ---
 
-## 9. Symbolic-Only Systems Boundary
+## 10. Symbolic-Only Systems Boundary
 
 Purely symbolic or abstract systems without real cost, energy, or consequence
 do not satisfy the conditions for congruity evaluation.
