@@ -7,6 +7,7 @@ It defines **structural admissibility conditions** under which systems remain co
 
 The Law of Congruity is treated here as a **foundational admissibility principle**, not as a control rule, optimization target, or predictive theory.
 
+This repository defines the canonical laws of Congruity. The First Law is stated in `first-law-of-congruity.md`.
 ---
 
 ## Scope and Intent
