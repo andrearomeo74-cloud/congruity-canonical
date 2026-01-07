@@ -58,6 +58,7 @@ Instead, it specifies **when such laws remain admissible**, and when coherence d
 - `BOUNDARIES.md` — Explicit scope limits
 - `IP_NOTICE.md` — Intellectual property and use restrictions
 - `STATUS.md` — Maturity and intent
+- `BOUNDARIES-OF-CONGRUITY.md – Canonical limits of applicability
 
 ---
 
