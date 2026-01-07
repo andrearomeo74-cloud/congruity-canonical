@@ -198,3 +198,4 @@ Within these boundaries, the Law of Congruity is admissible and well-defined.
 Beyond them, it neither applies nor asserts.
 
 This limitation is intentional and foundational.
+<!-- Canonical boundaries completed and closed -->
