@@ -46,7 +46,30 @@ Future travel remains admissible under Congruity.
 Past-directed trajectories violate proportionality and are therefore inadmissible,
 independently of causality or local physical allowances.
 
-## 4. Non-Therapeutic and Non-Clinical Boundary
+## 4. Closed Timelike Curves and Temporal Loop Boundary
+
+The Law of Congruity is not defined for closed timelike curves (CTCs),
+temporal loops, or self-referential time trajectories.
+
+Such structures violate proportionality by allowing value (V)
+to be preserved, duplicated, or amplified without corresponding
+energetic (E), informational (I), or structural (S) cost accumulation.
+
+In a closed temporal loop, costs cannot grow monotonically,
+while functional value may persist across cycles.
+This breaks the minimal proportional ordering required for admissibility.
+
+Therefore, temporal loops and backward-closed trajectories are
+structurally inadmissible under Congruity,
+independently of whether local physical theories permit their existence.
+
+No causal paradox is required.
+The inadmissibility arises purely from loss of proportional cost ordering.
+
+Conceptual boundary only.
+No claim is made regarding physical realizability.
+
+## 5. Non-Therapeutic and Non-Clinical Boundary
 
 The Law of Congruity is not:
 
@@ -60,7 +83,7 @@ validation and domain-specific methodologies outside this law.
 
 ---
 
-## 5. Domain-Indeterminate Boundary
+## 6. Domain-Indeterminate Boundary
 
 The Law of Congruity applies only to systems where all of the following can be
 meaningfully defined:
@@ -74,7 +97,7 @@ Systems lacking one or more of these dimensions fall outside its scope.
 
 ---
 
-## 6. Chaos and Non-Stationarity Boundary
+## 7. Chaos and Non-Stationarity Boundary
 
 The Law of Congruity is not defined for systems that are:
 
@@ -86,7 +109,7 @@ In such cases, proportionality cannot be evaluated.
 
 ---
 
-## 7. Normative and Moral Boundary
+## 8. Normative and Moral Boundary
 
 The Law of Congruity does not prescribe:
 
@@ -99,7 +122,7 @@ It is structurally descriptive, not normatively prescriptive.
 
 ---
 
-## 8. Symbolic-Only Systems Boundary
+## 9. Symbolic-Only Systems Boundary
 
 Purely symbolic or abstract systems without real cost, energy, or consequence
 do not satisfy the conditions for congruity evaluation.
