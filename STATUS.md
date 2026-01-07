@@ -25,6 +25,20 @@ No further expansion, refinement, optimization, or extension of the Law of Congr
 Any future work—applications, interpretations, models, metrics, simulations, or domain-specific developments—must occur **outside** this canonical definition and must explicitly reference it without modifying it.
 
 ---
+## Canonical Status — Version 1.0
+
+This repository is frozen as the canonical reference implementation of the
+Law of Congruity.
+
+Version 1.0 defines the complete admissibility structure, boundaries, and
+closure conditions of the law.
+
+No new domains, mechanisms, or extensions will be added here.
+All future developments occur strictly downstream in application-specific
+or exploratory repositories.
+
+This canonical layer exists to remain stable, minimal, and non-evolving.
+
 
 ## Relationship to Other Repositories
 
