@@ -113,7 +113,24 @@ invalidates proportional value claims under Congruity.
 This boundary is structural, not metaphysical.
 No claims are made about consciousness itself.
 
-## 7. Non-Therapeutic and Non-Clinical Boundary
+## 7. Global Consistency and Non-Accumulation of Free Value
+
+The Law of Congruity applies not only to local transitions
+but to entire trajectories across states, time, or transformations.
+
+A sequence of admissible local steps may still be globally inadmissible
+if it accumulates functional value (V) without proportional accumulation
+of energetic (E), informational (I), and structural (S) costs.
+
+No process may exploit boundary crossings, reformulations,
+or decomposition into sub-steps to generate free value.
+
+Congruity therefore enforces global proportional consistency:
+value must remain bounded by total incurred cost over the full trajectory.
+
+This prevents arbitrage across domains, scales, or representations.
+
+## 8. Non-Therapeutic and Non-Clinical Boundary
 
 The Law of Congruity is not:
 
@@ -127,7 +144,7 @@ validation and domain-specific methodologies outside this law.
 
 ---
 
-## 8. Domain-Indeterminate Boundary
+## 9. Domain-Indeterminate Boundary
 
 The Law of Congruity applies only to systems where all of the following can be
 meaningfully defined:
@@ -141,7 +158,7 @@ Systems lacking one or more of these dimensions fall outside its scope.
 
 ---
 
-## 9. Chaos and Non-Stationarity Boundary
+## 10. Chaos and Non-Stationarity Boundary
 
 The Law of Congruity is not defined for systems that are:
 
@@ -153,7 +170,7 @@ In such cases, proportionality cannot be evaluated.
 
 ---
 
-## 10. Normative and Moral Boundary
+## 11. Normative and Moral Boundary
 
 The Law of Congruity does not prescribe:
 
@@ -166,7 +183,7 @@ It is structurally descriptive, not normatively prescriptive.
 
 ---
 
-## 11. Symbolic-Only Systems Boundary
+## 12. Symbolic-Only Systems Boundary
 
 Purely symbolic or abstract systems without real cost, energy, or consequence
 do not satisfy the conditions for congruity evaluation.
