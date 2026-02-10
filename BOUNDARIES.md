@@ -20,6 +20,14 @@ Its purpose is structural coherence, not implementation.
 The law introduces **no new entities**, constants, forces, or mechanisms.
 It does not posit hidden variables or alternative physical substrates.
 
+## Fundamental Constants
+
+This framework treats fundamental constants as invariant boundary conditions, not as tunable parameters or control variables.
+
+Constants such as the fine structure constant do not represent levers for traversal, optimization, or regime switching.
+
+Any interpretation implying that proportional coherence can be achieved by modifying, bypassing, or resonantly altering fundamental constants is explicitly non-admissible within this canonical scope.
+
 ## Non-Operational Nature
 This repository intentionally avoids:
 - Thresholds
